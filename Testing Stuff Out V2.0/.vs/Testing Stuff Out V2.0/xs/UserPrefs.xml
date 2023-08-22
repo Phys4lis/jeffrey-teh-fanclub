@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5ED4EBF2-65D1-6217-A80A-DF65E59842CE}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48eec27e-21a4-4362-abe0-d664db8bd22f" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LuminoTurn.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Shaders/Lit.shader" />
+      <File FileName="Assets/YPosition.cs" />
+      <File FileName="Assets/MouseTurn.cs" />
+      <File FileName="Assets/Rotation.cs" />
+      <File FileName="Assets/MouseControl.cs" />
+      <File FileName="Assets/LuminoTurn.cs" Line="18" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing Stuff Out V2.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="LuminoTurn.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
