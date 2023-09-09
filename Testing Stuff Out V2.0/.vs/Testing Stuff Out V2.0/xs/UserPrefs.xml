@@ -5,21 +5,21 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48eec27e-21a4-4362-abe0-d664db8bd22f" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LuminoTurn.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/YPos.cs">
     <Files>
       <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Shaders/Lit.shader" />
-      <File FileName="Assets/YPosition.cs" />
-      <File FileName="Assets/MouseTurn.cs" />
-      <File FileName="Assets/Rotation.cs" />
-      <File FileName="Assets/MouseControl.cs" />
-      <File FileName="Assets/LuminoTurn.cs" Line="18" Column="65" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.core@14.0.8/Runtime/Camera/FreeCamera.cs" />
+      <File FileName="Assets/Scripts/lumino2turn.cs" />
+      <File FileName="Assets/Scripts/MouseTurn.cs" />
+      <File FileName="Assets/YPos.cs" Line="18" Column="93" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Testing Stuff Out V2.0" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="LuminoTurn.cs" selected="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="YPos.cs" selected="True" />
             </Node>
           </Node>
         </State>
